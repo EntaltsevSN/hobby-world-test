@@ -1,0 +1,7 @@
+export const FETCH_POSTS = 'FETCH_POSTS'
+export const GET_POSTS = 'GET_POSTS'
+export const CLEAN_POSTS = 'CLEAN_POSTS'
+export const SHOW_LOADER = 'SHOW_LOADER'
+export const HIDE_LOADER = 'HIDE_LOADER'
+export const EDIT_POSTS = 'EDIT_POSTS'
+export const REMOVE_POSTS = 'REMOVE_POSTS'
